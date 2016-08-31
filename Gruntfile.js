@@ -15,6 +15,8 @@ module.exports = function (grunt) {
 	svn_files_list = [
 		'readme.txt',
 		'metro-share.php',
+		'screenshot-1.png',
+		'screenshot-2.png',
 		'assets/**'
 	];
 

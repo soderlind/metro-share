@@ -15,10 +15,14 @@ Super fast and super customizable social sharing
 Super fast and super customizable social sharing. Adds Facebook, Twitter, Google+, LinkedIn and Email icons to your posts and pages.
 
 = Extension plugins =
+
 * <a href="http://soderlind.no/metro-share-social-fonts/">Metro Share Social Fonts</a>
 * <a href="https://geek.hellyer.kiwi/plugins/metro-share-remover/">Metro Share Remover</a>
 * <a href="https://geek.hellyer.kiwi/2013/04/03/metro-share-styles/">Metro Share Styles</a>
 
+= GitHub =
+
+The files are also [available at GitHub](https://github.com/soderlind/metro-share)
 
 == Installation ==
 
